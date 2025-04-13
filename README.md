@@ -1,6 +1,6 @@
 # Amazon_Sales_Analysis
 
- **Steps For making Power BI Dashboard**
+ **Steps For Making Power BI Dashboard**
  
 1. Data Import & Cleaning
 Loaded amazon.csv into Power BI
@@ -17,7 +17,6 @@ Bar Chart: Top 10 Products by Rating Count
 Donut Chart: Product Count by Category
 Scatter Chart: Discount % vs Rating
 Slicers: Category, Rating, Discount Percentage
-Navigation: Button to Page 2
 
 4. Dashboard Page 2: Detailed View
 Table: Product-wise Summary (Price, Rating, Discount %)
