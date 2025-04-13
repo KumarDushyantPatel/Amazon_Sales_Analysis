@@ -1,7 +1,8 @@
-# Amazon_Sales_Analysis
+Task 4
+Author-Kumar Dushyant Patel
 
- **Steps For Making Power BI Dashboard**
- 
+# Amazon_Sales_Analysis
+ **Steps For Making Power BI Dashboard** 
 1. Data Import & Cleaning
 Loaded amazon.csv into Power BI
 Cleaned data by removing null/invalid rows (e.g., blank categories, 0 pricing)
