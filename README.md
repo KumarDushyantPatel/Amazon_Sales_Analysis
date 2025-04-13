@@ -24,7 +24,7 @@ Table: Product-wise Summary (Price, Rating, Discount %)
 Bar Chart: Avg Rating by Category
 Bar Chart: Avg Discount % by Category
 Scatter Chart: Discount % vs Rating (Bubble Size = Review Count)
-Smart Slicers and Page Navigation
+Smart Slicers.
 
 5. Design & Interactivity
 Consistent color theme (Blue, Orange, White)
@@ -32,7 +32,7 @@ Aligned layout with Segoe UI font
 Tooltips and titles activated for all visuals
 
 
-**Steps for making Power Point Presentation** 
+**Steps For Making PowerPoint Presentation** 
 I developed a 9-slide PowerPoint presentation to effectively communicate the insights derived from the Power BI dashboard analyzing Amazon product data. Below is the structure of the presentation:
 
 Slides 1–2: Title & Introduction
